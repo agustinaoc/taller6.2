@@ -1,5 +1,26 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(0, 0, 28);
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    font-size: 1.3em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
+}
+
+p,a{
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
 }
 
 .image{
@@ -20,7 +41,15 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+
 .link-button:hover{
     background-color: rgb(31, 29, 29);
     color: rgb(253, 246, 231);
 }
+
+.contenedor {
+    text-align: center;
+    padding: auto;
+    
+}
+
