@@ -2,6 +2,27 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
+h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    font-size: 1.3em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
+}
+
+p,a{
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    color: rgb(252, 252, 234);
+    line-height: 1.5em 
+}
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
