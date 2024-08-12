@@ -9,11 +9,18 @@ body {
 }
 
 .link-button {
+    font-family: 'Turret Road';   
+    font-size: 15px;
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: rgb(21, 21, 21);
+    border: 1px solid rgba(175, 173, 173, 0.79);
+    background-color: #f2f2f275;
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 2px 3px #888888;
+}
+
+.link-button:hover{
+    background-color: rgb(31, 29, 29);
+    color: rgb(253, 246, 231);
 }
